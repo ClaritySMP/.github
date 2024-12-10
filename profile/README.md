@@ -6,7 +6,7 @@ Welcome to the official GitHub page for **ClaritySMP**, a Minecraft Survival Mul
 
 ## How to Join
 
-1. join ![the clarity smp](https://discord.gg/ChHWUqTMR3)
+1. join [the clarity smp](https://discord.gg/ChHWUqTMR3)
 2. Read the Pledge and accept
 3. use the ip in information channel and follow instructions to whitelist
 
