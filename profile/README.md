@@ -38,7 +38,7 @@ The ClaritySMP server uses a variety of plugins and mods to enhance gameplay. Be
 
 ## License
 
-The ClaritySMP plugins are licensed under the MIT license. See the LICENSE files for more details.
+The ClaritySMP plugins are licensed under the GPL license. See the LICENSE files for more details.
 
 ---
 
